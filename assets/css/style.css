@@ -14,14 +14,26 @@ html{
 }
 
 .site-footer {
-    background: rgb(34, 34, 34);
+    background: rgb(24, 23, 23);
 }
 
 .copy{
-    margin: 0 auto;
+    text-align: center;
+    font-size: .8rem;
     color: #fff;
 }
 
+.copy p{
+    margin: 0;
+}
+
+.nav-link {
+    color:rgb(172, 172, 172);
+}
+
+.nav-link:hover {
+    color: rgb(255, 230, 4);
+}
 
 
 h1 {color:pink}
