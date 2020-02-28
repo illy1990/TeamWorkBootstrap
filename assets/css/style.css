@@ -7,6 +7,11 @@ html{
     scroll-behavior: smooth;
 }
 
+header, main {
+    background: rgb(24, 23, 23);
+}
+
+
 /* Footer Section */
 .site-newsletter {
     background: rgb(78, 78, 78);
@@ -15,6 +20,7 @@ html{
 
 .site-footer {
     background: rgb(24, 23, 23);
+    padding: 1.5%;
 }
 
 .copy{
